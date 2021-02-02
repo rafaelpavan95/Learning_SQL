@@ -12,3 +12,5 @@ Repositório para atividades do livro: Learning SQL da editora O'Reilly
 
 ### + Atividade 5: [Exercícios do Capítulo 7 - Data Generation, Conversion, and Manipulation](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_7_Exercicios.sql)
 
+### + Atividade 6: [Exercícios do Capítulo 8 - Grouping and Aggregates](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_8_Exercicios.sql)
+
