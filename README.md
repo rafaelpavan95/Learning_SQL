@@ -14,3 +14,5 @@ Repositório para atividades do livro: Learning SQL da editora O'Reilly
 
 ### + Atividade 6: [Exercícios do Capítulo 8 - Grouping and Aggregates](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_8_Exercicios.sql)
 
+### + Atividade 7: [Exercícios do Capítulo 9 - Subqueries](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_9_Exercicios.sql)
+
