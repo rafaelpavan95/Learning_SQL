@@ -16,3 +16,5 @@ Repositório para atividades do livro: Learning SQL da editora O'Reilly
 
 ### + Atividade 7: [Exercícios do Capítulo 9 - Subqueries](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_9_Exercicios.sql)
 
+### + Atividade 8: [Exercícios do Capítulo 10 - Joins Revisited](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_10_Exercicios.sql)
+
