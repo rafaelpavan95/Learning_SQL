@@ -1,6 +1,6 @@
 # Aprendizado de SQL
 
-Repositório para atividades dos livros: Learning SQL e SQL Cookbook da editora O'Reilly
+Repositório para atividades dos livros: **Learning SQL** e **SQL Cookbook** da editora O'Reilly
 _____________
 ## Learning SQL:
 
