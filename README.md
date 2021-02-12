@@ -1,7 +1,7 @@
 # Aprendizado de SQL
 
 Repositório para atividades dos livros: Learning SQL e SQL Cookbook da editora O'Reilly
-
+_____________
 ## Learning SQL:
 
 ### + Atividade 1: [Exercícios do Capítulo 3 - Query](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_3_Exercicios.sql)
