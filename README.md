@@ -2,6 +2,7 @@
 
 Repositório para atividades dos livros: **Learning SQL** e **SQL Cookbook** da editora O'Reilly
 _____________
+
 ## Learning SQL:
 
 ### + Atividade 1: [Exercícios do Capítulo 3 - Query](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_3_Exercicios.sql)
@@ -20,7 +21,7 @@ _____________
 
 ### + Atividade 8: [Exercícios do Capítulo 10 - Joins Revisited](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_10_Exercicios.sql)
 
-### + Atividade 9: [Exercícios do Capítulo 11 - Case When](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_11_Exercicios.sql)
+### + Atividade 9: [Exercícios do Capítulo 11 - Conditional Logic](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_11_Exercicios.sql)
 
 
 
