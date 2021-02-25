@@ -25,7 +25,7 @@ _____________
 
 ### + Atividade 10: [Exercícios do Capítulo 13 - Indexes and Constraints](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_13_Exercicios.sql)
 
-
+### + Atividade 10: [Exercícios do Capítulo 14 - Views](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_14_Exercicios.sql)
 
 __________________
 
