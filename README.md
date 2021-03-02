@@ -33,3 +33,5 @@ __________________
 ## SQL Cookbook:
 
 ### + Atividade 1: [Criação das Tabelas](https://github.com/rafaelpavan95/Learning_SQL/blob/main/SQL_Cookbook_Dados.sql)
+
+### + Atividade 2: [Retrieving Records](https://github.com/rafaelpavan95/Learning_SQL/blob/main/CAP_1.sql) 
