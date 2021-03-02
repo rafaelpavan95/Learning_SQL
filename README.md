@@ -31,3 +31,5 @@ __________________
 
 
 ## SQL Cookbook:
+
+### + Atividade 1: [Criação das Tabelas](https://github.com/rafaelpavan95/Learning_SQL/blob/main/SQL_Cookbook_dados.sql)
