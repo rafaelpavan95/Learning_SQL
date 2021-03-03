@@ -34,7 +34,7 @@ __________________
 
 ### + Atividade 1: [Criação das Tabelas](https://github.com/rafaelpavan95/Learning_SQL/blob/main/SQL_Cookbook_Dados.sql)
 
-### + Atividade 2: [Retrieving Records](https://github.com/rafaelpavan95/Learning_SQL/blob/main/CAP_1.sql) 
+### + Atividade 2: [Exercícios do Capítulo 1 - Retrieving Records](https://github.com/rafaelpavan95/Learning_SQL/blob/main/CAP_1.sql) 
 
-### + Atividade 3: [Sorting Query Results](https://github.com/rafaelpavan95/Learning_SQL/blob/main/CAP_2.sql)
+### + Atividade 3: [Exercícios do Capítulo 2 - Sorting Query Results](https://github.com/rafaelpavan95/Learning_SQL/blob/main/CAP_2.sql)
 
