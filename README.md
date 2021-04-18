@@ -1,7 +1,8 @@
 # Aprendizado de SQL
 
-Repositório para atividades dos livros: **Learning SQL** e **SQL Cookbook** da editora O'Reilly
-_____________
+Repositório para atividades do livro: **Learning SQL**
+
+_____________________
 
 ## Learning SQL:
 
@@ -26,15 +27,4 @@ _____________
 ### + Atividade 10: [Exercícios do Capítulo 13 - Indexes and Constraints](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_13_Exercicios.sql)
 
 ### + Atividade 11: [Exercícios do Capítulo 14 - Views](https://github.com/rafaelpavan95/Learning_SQL/blob/main/Cap_14_Exercicios.sql)
-
-__________________
-
-
-## SQL Cookbook:
-
-### + Atividade 1: [Criação das Tabelas](https://github.com/rafaelpavan95/Learning_SQL/blob/main/SQL_Cookbook_Dados.sql)
-
-### + Atividade 2: [Exercícios do Capítulo 1 - Retrieving Records](https://github.com/rafaelpavan95/Learning_SQL/blob/main/CAP_1.sql) 
-
-### + Atividade 3: [Exercícios do Capítulo 2 - Sorting Query Results](https://github.com/rafaelpavan95/Learning_SQL/blob/main/CAP_2.sql)
 
