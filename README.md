@@ -1,4 +1,4 @@
-# Aprendizado de SQL
+# Learning SQL
 
 Repositório para atividades do livro: **Learning SQL**
 
